@@ -14,7 +14,7 @@ const Home = () => {
 			<Navbar />
 			<div className="container">
 				<Jumbotron />
-				<div className="row gap-3 m-0">	
+				<div className="row d-flex justify-content-between gap-2 m-0 pt-3">
 					<Card />
 					<Card />
 					<Card />
